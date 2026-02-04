@@ -113,6 +113,7 @@ Read about the development process: [Building an AI-Powered Job Search Platform]
 
 - Portfolio: [soper.dev](https://soper.dev)
 - LinkedIn: [joseph-soper-dev](https://www.linkedin.com/in/joseph-soper-dev/)
+- GitHub: [@thejollydev](https://www.github.com/thejollydev)
 - Email: joseph@soper.dev
 
 ## 📄 License
